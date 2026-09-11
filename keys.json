@@ -1,0 +1,10 @@
+{
+  "ALLOWED_KEYS": {
+    "NXC": 9999
+  },
+  "ADMIN_KEYS": [
+    "NXC"
+  ],
+  "RESET_TZ": "Asia/Dhaka"
+}
+
