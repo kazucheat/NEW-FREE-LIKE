@@ -1,10 +1,10 @@
 {
   "ALLOWED_KEYS": {
-    "NXC": 9999
+    "KAZU": 9999
   },
   "ADMIN_KEYS": [
-    "NXC"
+    "KAZU"
   ],
-  "RESET_TZ": "Asia/Dhaka"
+  "RESET_TZ": "Asia/Kolkata"
 }
 
